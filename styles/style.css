@@ -51,3 +51,23 @@ border: 0px;
     padding-top: 50px;
 
 }
+/* main section start */
+.Featured-Flowers{
+    text-align: center;
+}
+.FeaturedFlowers-title{
+    color: #272727;
+text-align: center;
+font-size: 34px;
+font-weight: 800;
+padding-top: 170px;
+padding-bottom: 24px;
+}
+.FeaturedFlowers-discription{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-bottom: 48px;
+}
