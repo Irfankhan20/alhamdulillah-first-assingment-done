@@ -134,3 +134,36 @@ height: 450px;
 .probad-bakko{
     padding-bottom: 24px;
 }
+/* Hot Deal ! Sale Up To 25% Off section styles */
+.hotdeal-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 150px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 125px;
+    height: 500px;
+    align-items: center;
+}
+.htodeal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 25px;
+}
+.hotdeal-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.signup-btn{
+    text-align: center;
+    margin-top: 32px;
+}
+.htodeal-special{
+    color: #E55473;
+
+}
