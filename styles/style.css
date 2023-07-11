@@ -188,3 +188,16 @@ font-weight: 400;
 line-height: 30px;
 padding-bottom: 48px;
 }
+
+/* four image set section styles */
+.fourimg-setcontainer{
+    display: flex;
+    gap: 18px;
+    margin-bottom: 128px;
+    justify-content: center;
+}
+.four-flower{
+    width: 270px;
+    height: 335px;
+
+}
